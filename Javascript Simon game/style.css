@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    color: aliceblue;
+}
+
+h2{
+    color: aliceblue;
+}
+
+.btn{
+    height: 150px;
+    width: 150px;
+    border-radius: 20%;
+    border: 2px white solid;
+    margin: 2rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: brown;
+}
+
+.green{
+    background-color: rgb(93, 154, 2);
+}
+
+.yellow{
+    background-color: rgb(255, 142, 29);
+}
+
+.purple{
+    background-color: purple;
+}
+
+.flash{
+    background-color: aliceblue;
+}
+
+.userflash{
+    background-color: rgb(253, 227, 97);
+}
+
+#highScoreDisplay {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
