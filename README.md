@@ -1,4 +1,5 @@
-Simon Says Game
+**Simon Says Game**
+
 A fun and interactive Simon Says game built using HTML, CSS, and JavaScript! Test your memory skills by following the sequence of colors and sounds.
 
 🎮 Features
@@ -20,11 +21,15 @@ The sequence gets longer with each round – how far can you go?
 If you make a mistake, the game resets, and you can try again!
 
 📂 Project Structure
-Copy code
+
 ├── index.html        # Main HTML file
+
 ├── style.css         # Styling for the game
+
 ├── script.js         # Game logic and interactivity
+
 ├── README.md         # Project documentation
+
 
 🎨 Preview
 <img width="960" alt="{31D49974-C1EC-4FDE-A8BD-381365DF5BAD}" src="https://github.com/user-attachments/assets/0263e036-8dff-4306-b7e7-d9c851c15cc4">
